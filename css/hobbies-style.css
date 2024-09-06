@@ -1,0 +1,36 @@
+
+body{
+    background-color: #EAF6F6;
+  }
+  hr{
+    background-color: white;
+    border-style: none;
+    height: 0px;
+    width: 5%;
+    border-top-style: dotted;
+    border-width: 5px;
+    border-color: grey;
+  
+  
+  }
+  
+  h1{
+    color:  #66BFBF;
+  }
+  h3{
+    color:  #66BFBF;
+  }
+  img {
+    height: 25%;
+    width: 25%;
+    padding-right: 0px;
+  }
+  .top-table
+  {
+    /* padding-top: 10px;
+    padding-bottom: 20px; */
+    padding-left : 0px;
+    margin-left: 0%;
+    /* padding-right: 00px; */
+    /* padding-left: 0px; */
+  } 
